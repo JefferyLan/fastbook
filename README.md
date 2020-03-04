@@ -13,3 +13,6 @@ If you see someone hosting a copy of these materials somewhere else, please let 
 This is an early draft. If you get stuck running notebooks, please search the [fastai-v2 forum](https://forums.fast.ai/c/fastai-users/fastai-v2) for answers, and ask for help there if needed. Please don't use GitHub issues for problems running the notebooks.
 
 If you make any pull requests to this repo, then you are assigning copyright of that work to Jeremy Howard and Sylvain Gugger.
+
+Online Courses： 
+https://www.usfca.edu/data-institute/certificates/deep-learning-part-one
